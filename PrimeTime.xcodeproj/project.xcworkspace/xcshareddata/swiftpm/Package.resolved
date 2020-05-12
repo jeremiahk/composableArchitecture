@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CasePaths",
+        "repositoryURL": "https://github.com/pointfreeco/swift-case-paths.git",
+        "state": {
+          "branch": null,
+          "revision": "a9c1e05518b6d95cf5844d823020376f2b6ff842",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "SnapshotTesting",
+        "repositoryURL": "https://github.com/pointfreeco/swift-snapshot-testing",
+        "state": {
+          "branch": null,
+          "revision": "114882386a815f4a2e6d8f2f7ee4857acd372438",
+          "version": "1.7.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
